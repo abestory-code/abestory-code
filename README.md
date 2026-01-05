@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdeslam
 - 👀 I’m interested in Dev / DevOps & Cybersecurity
-- 🌱 I’m currently learning blue team methodology
+- 🌱 I’m currently learning AI Agentic
 - 📫 How to reach me :
     https://www.linkedin.com/in/abdeslam-amzal/
 
